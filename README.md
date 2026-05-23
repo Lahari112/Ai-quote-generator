@@ -1,4 +1,4 @@
- AI Quote Generator
+# AI Quote Generator
  
 A simple React app that generates random inspirational quotes using a public API.
 
